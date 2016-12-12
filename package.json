@@ -1,0 +1,24 @@
+{
+  "name": "tiny-files",
+  "version": "1.0.0",
+  "description": "simple script to run files through the tinypng optimizer",
+  "main": "tiny.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmajel/tiny-files.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmajel/tiny-files/issues"
+  },
+  "homepage": "https://github.com/cmajel/tiny-files#readme",
+  "devDependencies": {
+    "file-size": "^1.0.0",
+    "tinify": "^1.3.0",
+    "walk": "^2.3.9"
+  }
+}
