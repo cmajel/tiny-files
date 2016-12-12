@@ -8,6 +8,6 @@ You will need node and npm to run this, as well as [an api key from tinypng](htt
 
 * Install your packages: `npm i`
 * Update your `config.js` with your api key. 
-* Update the starting + ending directory for the files youw ant to optimize. 
+* Update your `config.js` with the starting + ending directory for the files you want to optimize (or play around with the examples). 
 * Run the script: `node tiny.js`
 
